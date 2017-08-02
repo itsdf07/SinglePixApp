@@ -19,7 +19,8 @@
         </activity>
         <activity
             android:name=".SinglePixActivity"
-            android:theme="@style/LiveTheme" />
+            android:theme="@style/LiveTheme"
+            android:launchMode="singleInstance"/>
         <activity android:name=".SecondActivity" />
 
         <!--<service-->
