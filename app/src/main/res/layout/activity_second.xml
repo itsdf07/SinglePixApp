@@ -4,9 +4,9 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/btn_go"
+        android:id="@+id/start_singlePix"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Start SinglePixActivity" />
 
 </RelativeLayout>
